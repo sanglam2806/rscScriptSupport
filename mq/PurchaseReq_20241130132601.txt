@@ -1,0 +1,8 @@
+<MessageType>
+<purchaseRequestId>111111</purchaseRequestId>
+<purchaseRequestId>222222</purchaseRequestId>
+<purchaseRequestId>333333</purchaseRequestId>
+<purchaseRequestId>444444</purchaseRequestId>
+<purchaseRequestId>555555</purchaseRequestId>
+
+</MessageType>
